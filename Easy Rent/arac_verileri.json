@@ -1,0 +1,42 @@
+[
+    {
+        "plaka": "A",
+        "marka": "B",
+        "model": "C",
+        "ucret": 1500.0,
+        "durum": "kirada",
+        "kiralayan": "Ab",
+        "baslangic_tarihi": "2025-12-20",
+        "bitis_tarihi": "2025-12-22"
+    },
+    {
+        "plaka": "B",
+        "marka": "C",
+        "model": "B",
+        "ucret": 1000.0,
+        "durum": "müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "23AT56",
+        "marka": "A",
+        "model": "C",
+        "ucret": 2000.0,
+        "durum": "müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "12ET123",
+        "marka": "A",
+        "model": "B",
+        "ucret": 1000.0,
+        "durum": "müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    }
+]

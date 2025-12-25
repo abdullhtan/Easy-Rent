@@ -1,0 +1,27 @@
+[
+    {
+        "plaka": "B",
+        "musteri": "Elif",
+        "baslangic": "2025-12-20",
+        "bitis": "2025-12-21",
+        "admin_iade": true
+    },
+    {
+        "plaka": "23AT56",
+        "musteri": "Ahsen",
+        "baslangic": "2025-12-21",
+        "bitis": "2025-12-21"
+    },
+    {
+        "plaka": "B",
+        "musteri": "A",
+        "baslangic": "2025-12-19",
+        "bitis": "2025-12-21"
+    },
+    {
+        "plaka": "B",
+        "musteri": "Ali",
+        "baslangic": "2025-12-25",
+        "bitis": "2025-12-23"
+    }
+]
